@@ -1,0 +1,48 @@
+body {
+  background-color: #d5f4e6;
+  color: black;
+  font-family: Verdana, sans-serif;
+  font-style: normal;
+  margin: 0;
+  padding: 0;
+  box-sizing:border-box;
+} 
+
+.header input {
+  background-color: #ffffff;
+  color: #898F9C;
+  padding: 5px 5px;
+  text-align: center;
+  width: 60%;
+  font-size: 20px;
+  margin-left:20%;
+  margin-top: 3%;
+}
+
+.small-container{
+  margin-top:50px;
+  margin-left: 15%;
+ 
+
+}
+
+.column{
+  float:left;
+  width:350px;
+  padding:5px;
+
+}
+.row{
+  content: "";
+  display:table-row;
+  clear: both;
+
+}
+.poster {
+  width:80%;
+
+
+}
+
+
+
